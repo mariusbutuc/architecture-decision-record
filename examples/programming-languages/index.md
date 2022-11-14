@@ -159,7 +159,7 @@ We believe that our core decision is driven by two cross-cutting concerns:
 
   * For close-to-fastest runtime speed and close-to-tightest system access, we choose TypeScript and Rust.
 
-Honorable mentions go to the VM languages and web frameworks that we would choose if we wanted a VM lanauge:
+Honorable mentions go to the VM languages and web frameworks that we would choose if we wanted a VM language:
 
   * Clojure and Luminus
 
